@@ -6,12 +6,12 @@ constant: CONNECTION_NAME {
 
 
 constant: GCP_PROJECT {
-  value: "cortex-salesforce-demo-7070"
+  value: "techhub-sap-salesforce-looker"
   export: override_required
 }
 
 
 constant: SFDC_DATASET {
-  value: "REPORTING_SFDC"
+  value: "SFDC_REPORTING"
   export: override_required
 }
