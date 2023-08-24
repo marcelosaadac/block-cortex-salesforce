@@ -12,6 +12,6 @@ constant: GCP_PROJECT {
 
 
 constant: SFDC_DATASET {
-  value: "SFDC_REPORTING_VIEWS"
+  value: "TEST_SF_REP"
   export: override_required
 }
